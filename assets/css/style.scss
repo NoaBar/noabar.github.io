@@ -1,6 +1,3 @@
----
----
-
 /*! normalize.css 2012-02-07T12:37 UTC - https://github.com/necolas/normalize.css */article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary {
  display:block
 }
@@ -324,7 +321,7 @@ h2 {
  color:#393939
 }
 h3,h4,h5,h6 {
- color:#666666
+ color:#666
 }
 h3 {
  font-size:18px;
@@ -398,10 +395,10 @@ td {
  text-align:left;
  padding:5px 10px;
  border-bottom:1px solid #e5e5e5;
- border-right:1px solid #ffcc00
+ border-right:1px solid #fc0
 }
 td:first-child {
- border-left:1px solid #ffcc00
+ border-left:1px solid #fc0
 }
 hr {
  border:0;
@@ -481,14 +478,14 @@ header p {
  background-color:#ffeca0
 }
 #banner .fork {
-  position: fixed;
-  left:50%;
-  margin-left:-325px;
-  padding:10px 12px;
-  margin-top:6px;
-  line-height:14px;
-  font-size:14px;
-  background-color:#FFE788
+ position:fixed;
+ left:50%;
+ margin-left:-325px;
+ padding:10px 12px;
+ margin-top:6px;
+ line-height:14px;
+ font-size:14px;
+ background-color:#FFE788
 }
 #banner .downloads {
  float:right;
@@ -585,116 +582,112 @@ footer {
  div.wrapper {
   width:auto;
   margin:0
-}
-nav {
+ }
+ nav {
   display:none
-}
-header,section,footer {
+ }
+ header,section,footer {
   float:none
-}
-header h1,section h1,footer h1 {
+ }
+ header h1,section h1,footer h1 {
   white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
   -o-text-overflow:ellipsis;
   -ms-text-overflow:ellipsis
-}
-#banner {
+ }
+ #banner {
   width:100%
-}
-#banner .downloads {
+ }
+ #banner .downloads {
   margin-right:20px
-}
-#banner #logo {
+ }
+ #banner #logo {
   margin-right:15px
-}
-section {
+ }
+ section {
   border:1px solid #e5e5e5;
   border-width:1px 0;
   padding:20px auto;
   margin:190px auto 20px;
   max-width:600px
-}
-footer {
+ }
+ footer {
   text-align:center;
   margin:20px auto;
   position:relative;
   left:auto;
   bottom:auto;
   width:auto
-}
+ }
 }
 @media print, screen and (max-width: 720px) {
  body {
   word-wrap:break-word
-}
-header {
-  padding:20px 20px;
-  margin:0
-}
-header h1 {
-  font-size:32px;
-  white-space:nowrap;
-  overflow:hidden;
-  text-overflow:ellipsis;
-  -o-text-overflow:ellipsis;
-  -ms-text-overflow:ellipsis
-}
-header p {
-  display:none
-}
-#banner {
-  margin-top: 115px;
-  position: inherit;
-  margin-bottom: -110px;
-}
-#banner .fork {
-  float:left;
-  display:inline-block;
-  margin-left:20px;
-  position: inherit;
-
-}
-section {
-  margin-top:130px;
-  margin-bottom:0px;
-  width:auto
-}
-header ul,header p.view {
-  position:static
-}
-}
-@media print, screen and (max-width: 480px) {
+ }
  header {
-  position:relative;
-  padding:5px 0px;
-  min-height:0px
-}
-header h1 {
+  /*! padding:0px 20px 0px 20px; *//*! margin:0; */position: relative;
+  padding: 5px 0px;
+  min-height: 0px;
+ }
+ header h1 {
   font-size:24px;
   white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
   -o-text-overflow:ellipsis;
   -ms-text-overflow:ellipsis
-}
-section {
-  margin-top:45px
-}
-#banner {
-  margin-top: 0;
-  margin-bottom: -40px;
-}
-header ul {
+ }
+ header p {
   display:none
+ }
+ #banner {
+  margin-top:0;
+  margin-bottom:-40px;
+   position: inherit
+ }
+ #banner .fork {
+  float:left;
+  display:inline-block;
+  margin-left:20px;
+  position:inherit
+ }
+ section {
+  margin-top:60px;
+  margin-bottom:0px;
+  width:auto
+ }
+ header ul,header p.view {
+  position:static
+ }
 }
+@media print, screen and (max-width: 480px) {
+ header {
+  position:relative;
+  padding:5px 0px;
+  min-height:0px
+ }
+ header h1 {
+  font-size:24px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  -o-text-overflow:ellipsis;
+  -ms-text-overflow:ellipsis
+ }
+ section {
+  margin-top:45px
+ }
+ header ul {
+  display:none
+ }
 }
 @media print {
  body {
   padding:0.4in;
   font-size:12pt;
   color:#444
-}
+ }
 }
 @media print, screen and (max-height: 680px) {
  footer {
@@ -704,20 +697,20 @@ header ul {
   left:auto;
   bottom:auto;
   width:auto
-}
+ }
 }
 @media print, screen and (max-height: 480px) {
  nav {
   display:none
-}
-footer {
+ }
+ footer {
   text-align:center;
   margin:20px auto;
   position:relative;
   left:auto;
   bottom:auto;
   width:auto
-}
+ }
 }
 #banner .button {
  border:1px solid #dba500;
