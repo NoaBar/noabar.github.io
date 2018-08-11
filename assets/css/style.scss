@@ -644,8 +644,9 @@ header p {
   display:none
 }
 #banner {
-  top:80px;
+  margin-top: 115px;
   position: inherit;
+  margin-bottom: -110px;
 }
 #banner .fork {
   float:left;
@@ -681,7 +682,8 @@ section {
   margin-top:45px
 }
 #banner {
-  margin-top: -20px
+  margin-top: 0;
+  margin-bottom: -40px;
 }
 header ul {
   display:none
