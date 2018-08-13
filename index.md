@@ -2,7 +2,8 @@
 Motivated, lost.
 
 
-## Contraceptive methods questionnaire
+Contraceptive methods questionnaire
+=======================================
 As a woman and a social worker who used to work with adolescents.
 In this app I wanted to combine my knowledg of contraception methods and programming.
 The way every answer influences the final result is visible through the points counter underneath every image,
@@ -11,6 +12,13 @@ to help the user understand what lead to the final suggected contraception metho
 [Click here for more images](bcquizGallery)
 
 ![Contraceptive methods questionnaire](images/BCquiz1.PNG)
+
+<p align="center">
+
+  <img src=images/BCquiz1.PNG>
+
+</p>
+
 
 Inventory
 =========
@@ -33,7 +41,7 @@ animation, responsive
 ![](images/Quidditch1.PNG)
 
 
-JustJava
+Just Java
 =========
 intent
 learning how to connect the app that I am building to other apps on my phone,
