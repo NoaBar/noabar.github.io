@@ -1,7 +1,14 @@
 Contraceptive methods questionnaire
 ====================================
-![](images/BCquiz1.PNG| width=100)![Pop up message to the user when opening the app](images/BCquiz2.PNG)
-![](images/BCquiz3.PNG)
-![](images/BCquiz4.PNG)
+<table align="center" cellspacing="0" cellpadding="0" style="border: none">
+	<tr>
+		<td><img src="images/BCquiz1.PNG" height="400px" /></td>
+		<td><img src="images/BCquiz2.PNG" height="400px" /></td>
+	</tr>
+	<tr>
+		<td><img src="images/BCquiz3.PNG" height="400px" /></td>
+		<td><img src="images/BCquiz4.PNG" height="400px" /></td>
+	</tr>
+</table>
 
 [back to index](index)

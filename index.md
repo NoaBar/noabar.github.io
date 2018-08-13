@@ -11,17 +11,8 @@ to help the user understand what lead to the final suggected contraception metho
 
 [Click here for more images](bcquizGallery)
 
-<table border="0">
-	<tr>
-		<td> This is my text </td>
-		<td><img src="images/BCquiz1.PNG" height="400px" /></td>
-	</tr>
-</table>
-
 <p align="center">
-
   <img src="images/BCquiz1.PNG" height="400px" />
-
 </p>
 
 
