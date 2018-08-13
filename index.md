@@ -18,7 +18,7 @@ to help the user understand what lead to the final suggected contraception metho
 
 <p align="center">
 
-  <img src=images/BCquiz1.PNG>
+  <img src="images/BCquiz1.PNG" />
 
 </p>
 
