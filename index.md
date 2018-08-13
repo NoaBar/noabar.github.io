@@ -11,7 +11,10 @@ to help the user understand what lead to the final suggected contraception metho
 
 [Click here for more images](bcquizGallery)
 
+<p align="center">
+
 ![Contraceptive methods questionnaire](images/BCquiz1.PNG)
+</p>
 
 <p align="center">
 
