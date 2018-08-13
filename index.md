@@ -12,7 +12,7 @@ to help the user understand what lead to the final suggected contraception metho
 [Click here for more images](bcquizGallery)
 
 <p align="center">
-  <img src="images/BCquiz1.PNG" height="400px" />
+  <img src="images/BCquiz1.PNG" style="max-height: 400px" />
 </p>
 
 
