@@ -461,7 +461,7 @@ header p {
  box-shadow:inset 0px 1px 0px rgba(255,255,255,0.4),0px 1px 1px rgba(0,0,0,0.1);
  background-color:#FFE788;
  margin-left:5px;
- padding:10px 12px;
+ padding:10px 10px;
  margin-top:6px;
  line-height:14px;
  font-size:14px;
@@ -477,12 +477,9 @@ header p {
 #banner .fork {
  position:fixed;
  left:50%;
- margin-left:-325px;
- padding:10px 12px;
- margin-top:6px;
+ margin-left:-340px;
  line-height:14px;
  font-size:14px;
- background-color:#FFE788
 }
 #banner .downloads {
  float:right;
@@ -501,7 +498,7 @@ header p {
  height:40px;
  padding:0;
  float:left;
- margin-left:10px
+ margin-left:0px
 }
 #banner ul li {
  display:inline
@@ -597,7 +594,7 @@ footer {
   width:100%
  }
  #banner .downloads {
-  margin-right:20px
+  margin-right:10px
  }
  #banner #logo {
   margin-right:15px
@@ -646,7 +643,7 @@ footer {
  #banner .fork {
   float:left;
   display:inline-block;
-  margin-left:20px;
+  margin-left:10px;
   position:inherit
  }
  section {
@@ -715,7 +712,7 @@ footer {
  border-radius:2px;
  box-shadow:inset 0px 1px 0px rgba(255,255,255,0.4),0px 1px 1px rgba(0,0,0,0.1);
  background-color:#FFE788;
- padding:10px 12px;
+ padding:10px 10px;
  margin-top:6px;
  line-height:14px;
  font-size:14px;
