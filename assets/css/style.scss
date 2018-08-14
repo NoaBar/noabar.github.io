@@ -576,112 +576,112 @@ footer {
  div.wrapper {
   width:auto;
   margin:0
- }
- nav {
+}
+nav {
   display:none
- }
- header,section,footer {
+}
+header,section,footer {
   float:none
- }
- header h1,section h1,footer h1 {
+}
+header h1,section h1,footer h1 {
   white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
   -o-text-overflow:ellipsis;
   -ms-text-overflow:ellipsis
- }
- #banner {
+}
+#banner {
   width:100%
- }
- #banner .downloads {
+}
+#banner .downloads {
   margin-right:10px
- }
- #banner #logo {
+}
+#banner #logo {
   margin-right:15px
- }
- section {
+}
+section {
   border:1px solid #e5e5e5;
   border-width:1px 0;
   padding:20px auto;
   margin:190px auto 20px;
   max-width:600px
- }
- footer {
+}
+footer {
   text-align:center;
   margin:20px auto;
   position:relative;
   left:auto;
   bottom:auto;
   width:auto
- }
+}
 }
 @media print, screen and (max-width: 720px) {
  body {
   word-wrap:break-word
- }
- header {
+}
+header {
   /*! padding:0px 20px 0px 20px; *//*! margin:0; */position: relative;
   padding: 5px 0px;
   min-height: 0px;
- }
- header h1 {
+}
+header h1 {
   font-size:24px;
   white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
   -o-text-overflow:ellipsis;
   -ms-text-overflow:ellipsis
- }
- header p {
+}
+header p {
   display:none
- }
- #banner {
+}
+#banner {
   margin-top:0;
   margin-bottom:-40px;
-   position: inherit
- }
- #banner .fork {
+  position: inherit
+}
+#banner .fork {
   float:left;
   display:inline-block;
   margin-left:10px;
   position:inherit
- }
- section {
+}
+section {
   margin-top:60px;
   margin-bottom:0px;
   width:auto
- }
- header ul,header p.view {
+}
+header ul,header p.view {
   position:static
- }
+}
 }
 @media print, screen and (max-width: 480px) {
  header {
   position:relative;
   padding:5px 0px;
   min-height:0px
- }
- header h1 {
+}
+header h1 {
   font-size:24px;
   white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
   -o-text-overflow:ellipsis;
   -ms-text-overflow:ellipsis
- }
- section {
+}
+section {
   margin-top:45px
- }
- header ul {
+}
+header ul {
   display:none
- }
+}
 }
 @media print {
  body {
   padding:0.4in;
   font-size:12pt;
   color:#444
- }
+}
 }
 @media print, screen and (max-height: 680px) {
  footer {
@@ -691,20 +691,20 @@ footer {
   left:auto;
   bottom:auto;
   width:auto
- }
+}
 }
 @media print, screen and (max-height: 480px) {
  nav {
   display:none
- }
- footer {
+}
+footer {
   text-align:center;
   margin:20px auto;
   position:relative;
   left:auto;
   bottom:auto;
   width:auto
- }
+}
 }
 #banner .button {
  border:1px solid #dba500;

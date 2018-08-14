@@ -1,8 +1,13 @@
-Contraceptive methods questionnaire
-====================================
-![](images/BCquiz1.PNG| width=100)
-![Pop up message to the user when opening the app](images/BCquiz2.PNG)
-![](images/BCquiz3.PNG)
-![](images/BCquiz4.PNG)
+Quidditch
+=========
 
-[back to index](index)
+<div style="overflow-x:auto;">
+	<table align="center" cellspacing="0" cellpadding="0" style="border: none; border-collapse:collapse">
+		<tr>
+			<td align="center"><a href="images/Quidditch1.PNG"><img src="images/Quidditch1.PNG" style="max-height: 400px" /></a></td>
+			<td align="center"><a href="images/Quidditch2.PNG"><img src="images/Quidditch2.PNG" style="max-height: 400px" /></a></td>
+		</tr>
+	</table>
+</div>
+
+[back to Home](index)

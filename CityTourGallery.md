@@ -1,5 +1,5 @@
 City Tour
-====================================
+==========
 
 <div style="overflow-x:auto;">
 	<table align="center" cellspacing="0" cellpadding="0" style="border: none; border-collapse:collapse">

@@ -1,9 +1,8 @@
 # Noah Beerova
 Motivated, lost.
 
-
-Contraceptive methods questionnaire
-=======================================
+Contraception Quiz
+==================
 As a woman and a social worker who used to work with adolescents.
 In this app I wanted to combine my knowledg of contraception methods and programming.
 The way every answer influences the final result is visible through the points counter underneath every image,
@@ -27,7 +26,7 @@ Making the app helped learn how to use a database.
 [Click here for more images](InventoryGallery)
 
 <p align="center">
-	<a href="images/Inventory1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+	<a href="images/Inventory1.PNG"><img src="images/Inventory1.PNG" style="max-height: 400px" /></a>
 </p>
 
 Quidditch
@@ -37,7 +36,7 @@ animation, responsive
 [Click here for more images](QuidditchGallery)
 
 <p align="center">
-	<a href="images/Quidditch1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+	<a href="images/Quidditch1.PNG"><img src="images/Quidditch1.PNG" style="max-height: 400px" /></a>
 </p>
 
 Just Java
@@ -48,7 +47,7 @@ learning how to connect the app that I am building to other apps on my phone,
 [Click here for more images](JustJavaGallery)
 
 <p align="center">
-	<a href="images/JustJava1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+	<a href="images/JustJava1.PNG"><img src="images/JustJava1.PNG" style="max-height: 400px" /></a>
 </p>
 
 City tour
@@ -63,5 +62,5 @@ because there is always something new to learn or find in this amazing city.
 [Click here for more images](CityTourGallery)
 
 <p align="center">
-	<a href="images/CityTour1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+	<a href="images/CityTour1.PNG"><img src="images/CityTour1.PNG" style="max-height: 400px" /></a>
 </p>
