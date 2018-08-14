@@ -12,7 +12,7 @@ to help the user understand what lead to the final suggected contraception metho
 [Click here for more images](bcquizGallery)
 
 <p align="center">
-  <a href="images/BCquiz1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+	<a href="images/BCquiz1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
 </p>
 
 
@@ -23,10 +23,12 @@ the inventory app is addapted/tailored to the use of a restaurant.
 With the possibility to add and edit any product in a fast and easy way.
 Making the task of keeping track of the inventory easier.
 Making the app helped learn how to use a database.
- 
+
 [Click here for more images](InventoryGallery)
 
-![](images/Inventory1.PNG)
+<p align="center">
+	<a href="images/Inventory1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+</p>
 
 Quidditch
 =========
@@ -34,8 +36,9 @@ animation, responsive
 
 [Click here for more images](QuidditchGallery)
 
-![](images/Quidditch1.PNG)
-
+<p align="center">
+	<a href="images/Quidditch1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+</p>
 
 Just Java
 =========
@@ -44,7 +47,9 @@ learning how to connect the app that I am building to other apps on my phone,
 
 [Click here for more images](JustJavaGallery)
 
-![](images/JustJava1.PNG)
+<p align="center">
+	<a href="images/JustJava1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+</p>
 
 City tour
 =========
@@ -57,4 +62,6 @@ because there is always something new to learn or find in this amazing city.
 
 [Click here for more images](CityTourGallery)
 
-![](images/CityTour1.PNG)
+<p align="center">
+	<a href="images/CityTour1.PNG"><img src="images/BCquiz1.PNG" style="max-height: 400px" /></a>
+</p>
