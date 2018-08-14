@@ -13,4 +13,4 @@ Inventory
 	</table>
 </div>
 
-[back to Home](index)
+[Back to Home](index)

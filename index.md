@@ -3,6 +3,7 @@ Motivated, lost.
 
 Contraception Quiz
 ==================
+Answer the questions 
 As a woman and a social worker who used to work with adolescents.
 In this app I wanted to combine my knowledg of contraception methods and programming.
 The way every answer influences the final result is visible through the points counter underneath every image,
@@ -17,6 +18,7 @@ to help the user understand what lead to the final suggected contraception metho
 
 Inventory
 =========
+
 In an attempt to contribute to my work place, 
 the inventory app is addapted/tailored to the use of a restaurant.
 With the possibility to add and edit any product in a fast and easy way.
