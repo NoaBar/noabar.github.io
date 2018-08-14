@@ -50,7 +50,7 @@ learning how to connect the app that I am building to other apps on my phone,
 	<a href="images/JustJava1.PNG"><img src="images/JustJava1.PNG" style="max-height: 400px" /></a>
 </p>
 
-City tour
+City Tour
 =========
 Jerusalem is my home town.
 Using few fragments and one menu I tried to build a simple app for the use of tourists, new students,
