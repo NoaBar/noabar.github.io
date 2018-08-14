@@ -10,4 +10,4 @@ City Tour
 	</table>
 </div>
 
-[back to index](index)
+[back to Home](index)
