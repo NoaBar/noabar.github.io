@@ -1,10 +1,11 @@
 # Noah Beerova
-Motivated, lost.
+Motivated...
+
 
 Contraception Quiz
 ==================
-Answer the questions 
-As a woman and a social worker who used to work with adolescents.
+Answer the questions to find out which contraception method might be good for you.
+As a woman and a social worker who used to work with adolescents, sexuall education takes a big part in my life.
 In this app I wanted to combine my knowledg of contraception methods and programming.
 The way every answer influences the final result is visible through the points counter underneath every image,
 to help the user understand what lead to the final suggected contraception method suggestion.
@@ -31,16 +32,6 @@ Making the app helped learn how to use a database.
 	<a href="images/Inventory1.PNG"><img src="images/Inventory1.PNG" style="max-height: 400px" /></a>
 </p>
 
-Quidditch
-=========
-animation, responsive
-
-[Click here for more images](QuidditchGallery)
-
-<p align="center">
-	<a href="images/Quidditch1.PNG"><img src="images/Quidditch1.PNG" style="max-height: 400px" /></a>
-</p>
-
 Just Java
 =========
 intent
@@ -51,6 +42,17 @@ learning how to connect the app that I am building to other apps on my phone,
 <p align="center">
 	<a href="images/JustJava1.PNG"><img src="images/JustJava1.PNG" style="max-height: 400px" /></a>
 </p>
+
+Quidditch
+=========
+animation, responsive
+
+[Click here for more images](QuidditchGallery)
+
+<p align="center">
+	<a href="images/Quidditch1.PNG"><img src="images/Quidditch1.PNG" style="max-height: 400px" /></a>
+</p>
+
 
 City Tour
 =========
