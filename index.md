@@ -34,7 +34,7 @@ Just Java
 =========
 An easy way for a business to get orders from its customers.<br/>
 The "Just Java" app is an example of a simple ordering app that every business can adapt and use according to its needs.
-Building this app, I gained experience working with an _explicit intent_, which allows an app connect with other apps on the same mobile phone.
+Building this app, I gained experience working with an _explicit intent_, which allows an app to connect with other apps on the same mobile phone.
 
 [Click here for more images](JustJavaGallery)
 
@@ -56,7 +56,7 @@ The app points out attractions, gives information about them and allows the user
 
 Quidditch
 =========
-Somethimes apps are just for fun.
+Sometimes apps are just for fun.
 In this app my goal was to learn how to build fluid animations using a _ConstraintLayout_.
 
 [Click here for more images](QuidditchGallery)
