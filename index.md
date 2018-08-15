@@ -1,7 +1,6 @@
 # Noah Beerova
 Social worker at the core.<br/>
-Inspired by opportunities to improve and change things for the better.<br/>
-Strives for simple, useful and usable solutions.
+Inspired by opportunities to improve; striving for simple, practical and intuitive solutions.
 
 Contraception Quiz
 ===================
