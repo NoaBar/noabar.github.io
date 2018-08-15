@@ -1,8 +1,6 @@
 # Noah Beerova
-Social worker at the core.
-
-Gets exaited when realizing that a current status/situation can get better.
-
+Social worker at the core.<br/>
+Gets exaited when realizing that a current status/situation can get better.<br/>
 Strives for a simple, useful and usable human centered solutions. 
 
 
