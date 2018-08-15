@@ -9,10 +9,10 @@ Quidditch
 			<td align="center"><a href="images/Quidditch1.PNG"><img src="images/Quidditch1.PNG" style="max-height: 400px" /></a></td>
 			<td align="center"><a href="images/Quidditch2.PNG"><img src="images/Quidditch2.PNG" style="max-height: 400px" /></a></td>
 		</tr>
-		<tr>
-			<td align="center"><a href="images/quidditchGif.gif"><img src="images/quidditchGif.gif" style="max-height: 400px" /></a></td>
-		</tr>
 	</table>
 </div>
+<p align="center">
+	<a href="images/quidditchGif.gif"><img src="images/quidditchGif.gif" style="max-height: 400px" /></a>
+</p>
 
 [Back to Home](index)

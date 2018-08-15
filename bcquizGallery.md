@@ -1,7 +1,7 @@
 Contraception Quiz
 ==================
 
-<a href="https://www.youtube.com/watch?v=jd2Ea7CrxDU" target="_blank"><strong>Click here to see the app in action</strong></a>
+<a href="https://www.youtube.com/watch?v=jd2Ea7CrxDU" target="_blank">Click here to see the app in action</a>
 
 
 <div style="overflow-x:auto;">

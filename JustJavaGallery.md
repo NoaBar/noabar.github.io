@@ -1,6 +1,6 @@
 Just Java
 ===========
-<a href="https://www.youtube.com/watch?v=UD_ADxsLjao&t=4s" target="_blank"><strong>Click here to see the app in action</strong></a>
+<a href="https://www.youtube.com/watch?v=UD_ADxsLjao&t=4s" target="_blank">Click here to see the app in action</a>
 
 
 <div style="overflow-x:auto;">

@@ -44,7 +44,7 @@ Building this app, I gained experience working with an _explicit intent_, which 
 
 City Tour
 =========
-Jerusalem is my home town, and there is always something new to learn or find in this amazing city.  
+
 Using a few fragments and one menu I built a simple app for the use of tourists, new students,
 young and senior residents.  
 The app gives information and allows the users to navigate to the selected attraction using Google Maps.
@@ -59,12 +59,12 @@ The app gives information and allows the users to navigate to the selected attra
 Quidditch
 =========
 Somethimes apps are just for fun.
-In this app my goal was to learn how to build fluid animation using a ConstraintLayout.
+In this app my goal was to learn how to build fluid animations using a _ConstraintLayout_.
 
 [Click here for more images](QuidditchGallery)
 
 <p align="center">
-	<a href="images/Quidditch1.PNG"><img src="images/Quidditch1.PNG" style="max-height: 400px" /></a>
+	<a href="images/quidditchGif.gif"><img src="images/quidditchGif.gif" style="max-height: 400px" /></a>
 </p>
 
 
