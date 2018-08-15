@@ -3,6 +3,7 @@ Contraception Quiz
 
 [Click here to see the app in action](https://www.youtube.com/watch?v=jd2Ea7CrxDU).
 
+<li><a href="https://www.youtube.com/watch?v=jd2Ea7CrxDU" target="_blank"><strong>Click here to see the app in action</strong></a></li>
 
 <div style="overflow-x:auto;">
 	<table align="center" cellspacing="0" cellpadding="0" style="border: none; border-collapse:collapse">
