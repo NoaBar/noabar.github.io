@@ -1,5 +1,7 @@
 # Noah Beerova
-Motivated...
+Social worker at the core.
+Gets exaited when realizing that a current status/situation can get better.
+Strives for a simple, useful and usable client centered solutions. 
 
 
 Contraception Quiz
@@ -34,8 +36,9 @@ Making the app helped learn how to use a database.
 
 Just Java
 =========
-intent
-learning how to connect the app that I am building to other apps on my phone,
+These days we can do almost everything on the internt, including shopping or ordering food.
+Building the Just Java app I gained experience working with intents that allow an app connect with other apps on the same mobile phone.
+
 
 [Click here for more images](JustJavaGallery)
 
@@ -45,7 +48,7 @@ learning how to connect the app that I am building to other apps on my phone,
 
 Quidditch
 =========
-animation, responsive
+animation, responsive????????????????
 
 [Click here for more images](QuidditchGallery)
 
