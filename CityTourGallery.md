@@ -1,7 +1,6 @@
 City Tour
 ==========
-
-[Click here to see the app in action](https://www.youtube.com/watch?v=a7w81YGGxmg).
+<a href="https://www.youtube.com/watch?v=a7w81YGGxmg" target="_blank"><strong>Click here to see the app in action</strong></a>
 
 
 <div style="overflow-x:auto;">

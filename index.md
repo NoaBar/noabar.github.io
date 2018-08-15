@@ -22,7 +22,7 @@ Inventory
 ==========
 In an attempt to contribute to my workplace, 
 this inventory app is tailored to the use of a restaurant.
-With the possibility to add and edit any product, the app makes the task of keeping track of the inventory easier.
+With the possibility of adding and editing any product, the app makes the task of keeping track of the inventory easier.
 
 [Click here for more images](InventoryGallery)
 
