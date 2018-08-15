@@ -44,9 +44,9 @@ Building this app, I gained experience working with an _explicit intent_, which 
 
 City Tour
 =========
-Tourism has a lot of influence on a city: bringing visitors, creating jobs.  
+Tourism has a lot of influence on a city, bringing visitors and creating jobs.  
 Using a few fragments and one menu I built a simple app for the use of tourists, new students and residents in the city of Jerusalem (my home town).  
-The app points out attractions, gives information about them and allows the users to navigate to their desired attraction using Google Maps.
+The app points out attractions, gives information about them and allows the users to navigate using Google Maps.
 
 [Click here for more images](CityTourGallery)
 
@@ -62,7 +62,7 @@ In this app my goal was to learn how to build fluid animations using a _Constrai
 [Click here for more images](QuidditchGallery)
 
 <p align="center">
-	<a href="images/quidditchGif.gif"><img src="images/quidditchGif.gif" style="max-height: 400px" /></a>
+	<a href="images/quidditchGif2.gif"><img src="images/quidditchGif.gif" style="max-height: 400px" /></a>
 </p>
 
 
