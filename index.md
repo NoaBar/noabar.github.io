@@ -61,7 +61,7 @@ In this app my goal was to learn how to build fluid animations using a _Constrai
 [Click here for more images](QuidditchGallery)
 
 <p align="center">
-	<a href="images/quidditchGif3.gif"><img src="images/quidditchGif3.gif" style="max-height: 400px" /></a>
+	<a href="images/quidditchGif.gif"><img src="images/quidditchGif.gif" style="max-height: 400px" /></a>
 </p>
 
 

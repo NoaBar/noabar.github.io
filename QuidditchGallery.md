@@ -12,7 +12,7 @@ Quidditch
 	</table>
 </div>
 <p align="center">
-	<a href="images/quidditchGif3.gif"><img src="images/quidditchGif3.gif" style="max-height: 400px" /></a>
+	<a href="images/quidditchGif.gif"><img src="images/quidditchGif.gif" style="max-height: 400px" /></a>
 </p>
 
 [Back to Home](index)
