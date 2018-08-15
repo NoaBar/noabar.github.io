@@ -1,15 +1,14 @@
 # Noah Beerova
 Social worker at the core.<br/>
-Gets exaited when realizing that a current status/situation can get better.<br/>
-Strives for a simple, useful and usable human centered solutions. 
-
+Gets excited when realizing that a current situation can get better.<br/>
+Strives for simple, useful and usable solutions.
 
 Contraception Quiz
 ===================
-Answer the questions to find out which contraception method could be good for you.
-As a woman and a social worker who used to work with adolescents, sexuall education takes a big part in my life.
-In this app I wanted to combine my knowledg of contraception methods and programming.
-The way every answer influences the final result is visible through the points counter underneath every image,
+Answer the questions to find out which contraception method could be good for you.<br/>
+As a woman and a social worker who used to work with adolescents, sexual education is a big part of my life.
+In this app I wanted to combine my knowledge of contraception methods, responsive UX and programming.
+The way every answer influences the final result is visible through the point counter underneath every image,
 to help the user understand what led to the final contraception method suggestion.
 
 [Click here for more images](bcquizGallery)
@@ -21,8 +20,8 @@ to help the user understand what led to the final contraception method suggestio
 
 Inventory
 ==========
-In an attempt to contribute to my work place, 
-the inventory app is addapted/tailored to the use of a restaurant.
+In an attempt to contribute to my workplace, 
+this inventory app is tailored to the use of a restaurant.
 With the possibility to add and edit any product in a fast and easy way.
 Making the task of keeping track of the inventory easier.
 
@@ -34,9 +33,9 @@ Making the task of keeping track of the inventory easier.
 
 Just Java
 =========
-An easy way for a business to get orders from its customers is throught an ordering app.<br/>
-The "Just Java" app is an example of a simple ordering app that every business can build and use according to its' needs.<br/>  
-Building the "Just Java" app I gained experience working with an "explicit intent" that allows an app connect with other apps on the same mobile phone.
+An easy way for a business to get orders from its customers.<br/>
+The "Just Java" app is an example of a simple ordering app that every business can adapt and use according to its needs.
+Building this app, I gained experience working with an _explicit intent_, which allows an app connect with other apps on the same mobile phone.
 
 [Click here for more images](JustJavaGallery)
 
@@ -57,11 +56,10 @@ animation, responsive????????????????
 
 City Tour
 =========
-Jerusalem is my home town.
-Using few fragments and one menu I tried to build a simple app for the use of tourists, new students,
-young and senior residents
-
-because there is always something new to learn or find in this amazing city.
+Jerusalem is my home town, and there is always something new to learn or find in this amazing city.
+Using a few fragments and one menu I built a simple app for the use of tourists, new students,
+young and senior residents.  
+The app allows the users to navigate to the selected attraction using Google Maps.
 
 
 [Click here for more images](CityTourGallery)
