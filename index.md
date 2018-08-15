@@ -42,17 +42,6 @@ Building this app, I gained experience working with an _explicit intent_, which 
 	<a href="images/JustJava1.PNG"><img src="images/JustJava1.PNG" style="max-height: 400px" /></a>
 </p>
 
-Quidditch
-=========
-animation, responsive????????????????
-
-[Click here for more images](QuidditchGallery)
-
-<p align="center">
-	<a href="images/Quidditch1.PNG"><img src="images/Quidditch1.PNG" style="max-height: 400px" /></a>
-</p>
-
-
 City Tour
 =========
 Jerusalem is my home town, and there is always something new to learn or find in this amazing city.  
@@ -66,3 +55,16 @@ The app gives information and allows the users to navigate to the selected attra
 <p align="center">
 	<a href="images/CityTour1.PNG"><img src="images/CityTour1.PNG" style="max-height: 400px" /></a>
 </p>
+
+Quidditch
+=========
+Somethimes apps are just for fun.
+In this app my goal was to learn how to build fluid animation using a ConstraintLayout.
+
+[Click here for more images](QuidditchGallery)
+
+<p align="center">
+	<a href="images/Quidditch1.PNG"><img src="images/Quidditch1.PNG" style="max-height: 400px" /></a>
+</p>
+
+

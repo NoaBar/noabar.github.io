@@ -1,6 +1,6 @@
 Quidditch
 =========
-<a href="https://www.youtube.com/watch?v=SPY9Zcxtfao" target="_blank"><strong>Click here to see the app in action</strong></a>
+<a href="https://www.youtube.com/watch?v=SPY9Zcxtfao" target="_blank">Click here to see the app in action</a>
 
 
 <div style="overflow-x:auto;">
