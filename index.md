@@ -22,8 +22,7 @@ Inventory
 ==========
 In an attempt to contribute to my workplace, 
 this inventory app is tailored to the use of a restaurant.
-With the possibility to add and edit any product in a fast and easy way.
-Making the task of keeping track of the inventory easier.
+With the possibility to add and edit any product, the app makes the task of keeping track of the inventory easier.
 
 [Click here for more images](InventoryGallery)
 
@@ -56,10 +55,10 @@ animation, responsive????????????????
 
 City Tour
 =========
-Jerusalem is my home town, and there is always something new to learn or find in this amazing city.
+Jerusalem is my home town, and there is always something new to learn or find in this amazing city.  
 Using a few fragments and one menu I built a simple app for the use of tourists, new students,
 young and senior residents.  
-The app allows the users to navigate to the selected attraction using Google Maps.
+The app gives information and allows the users to navigate to the selected attraction using Google Maps.
 
 
 [Click here for more images](CityTourGallery)
