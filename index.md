@@ -1,6 +1,6 @@
 # Noah Beerova
 Social worker at the core.<br/>
-Gets excited when realizing that a current situation can get better.<br/>
+Inspired by opportunities to improve and change things for the better.<br/>
 Strives for simple, useful and usable solutions.
 
 Contraception Quiz
@@ -62,7 +62,7 @@ In this app my goal was to learn how to build fluid animations using a _Constrai
 [Click here for more images](QuidditchGallery)
 
 <p align="center">
-	<a href="images/quidditchGif2.gif"><img src="images/quidditchGif.gif" style="max-height: 400px" /></a>
+	<a href="images/quidditchGif2.gif"><img src="images/quidditchGif2.gif" style="max-height: 400px" /></a>
 </p>
 
 
