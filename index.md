@@ -5,7 +5,7 @@ Strives for a simple, useful and usable human centered solutions.
 
 
 Contraception Quiz
-==================
+===================
 Answer the questions to find out which contraception method could be good for you.
 As a woman and a social worker who used to work with adolescents, sexuall education takes a big part in my life.
 In this app I wanted to combine my knowledg of contraception methods and programming.
@@ -20,13 +20,11 @@ to help the user understand what led to the final contraception method suggestio
 
 
 Inventory
-=========
-
+==========
 In an attempt to contribute to my work place, 
 the inventory app is addapted/tailored to the use of a restaurant.
 With the possibility to add and edit any product in a fast and easy way.
 Making the task of keeping track of the inventory easier.
-Making the app helped learn how to use a database.
 
 [Click here for more images](InventoryGallery)
 
@@ -36,9 +34,9 @@ Making the app helped learn how to use a database.
 
 Just Java
 =========
-These days we can do almost everything on the internt, including shopping or ordering food.
-Building the Just Java app I gained experience working with intents that allow an app connect with other apps on the same mobile phone.
-
+An easy way for a business to get orders from its customers is throught an ordering app.
+The "Just Java" app is an example of a simple ordering app that every business can build and use according to its' needs.  
+Building the "Just Java" app I gained experience working with an "explicit intent" that allows an app connect with other apps on the same mobile phone.
 
 [Click here for more images](JustJavaGallery)
 
