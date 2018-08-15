@@ -6,11 +6,11 @@ Strives for a simple, useful and usable human centered solutions.
 
 Contraception Quiz
 ==================
-Answer the questions to find out which contraception method might be good for you.
+Answer the questions to find out which contraception method could be good for you.
 As a woman and a social worker who used to work with adolescents, sexuall education takes a big part in my life.
 In this app I wanted to combine my knowledg of contraception methods and programming.
 The way every answer influences the final result is visible through the points counter underneath every image,
-to help the user understand what lead to the final suggected contraception method suggestion.
+to help the user understand what led to the final contraception method suggestion.
 
 [Click here for more images](bcquizGallery)
 
