@@ -34,8 +34,8 @@ Making the task of keeping track of the inventory easier.
 
 Just Java
 =========
-An easy way for a business to get orders from its customers is throught an ordering app.
-The "Just Java" app is an example of a simple ordering app that every business can build and use according to its' needs.  
+An easy way for a business to get orders from its customers is throught an ordering app.<br/>
+The "Just Java" app is an example of a simple ordering app that every business can build and use according to its' needs.<br/>  
 Building the "Just Java" app I gained experience working with an "explicit intent" that allows an app connect with other apps on the same mobile phone.
 
 [Click here for more images](JustJavaGallery)
