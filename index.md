@@ -44,11 +44,9 @@ Building this app, I gained experience working with an _explicit intent_, which 
 
 City Tour
 =========
-
-Using a few fragments and one menu I built a simple app for the use of tourists, new students,
-young and senior residents.  
-The app gives information and allows the users to navigate to the selected attraction using Google Maps.
-
+Tourism has a lot of influence on a city: bringing visitors, creating jobs.  
+Using a few fragments and one menu I built a simple app for the use of tourists, new students and residents in the city of Jerusalem (my home town).  
+The app points out attractions, gives information about them and allows the users to navigate to their desired attraction using Google Maps.
 
 [Click here for more images](CityTourGallery)
 
