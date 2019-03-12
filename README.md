@@ -1,1 +1,1 @@
-The source code for my website, visit it [here](https://noabar.github.io/)!
+The source code for my website, [come visit!](https://noabar.github.io/)
