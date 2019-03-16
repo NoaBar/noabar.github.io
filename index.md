@@ -2,11 +2,6 @@
 Social worker at the core.<br/>
 Inspired by opportunities to improve; striving for simple, practical and intuitive solutions.
 
-Mana Mana - The Expat Culinary Hub
-==================================
-
-<div data-configid="37425684/68392605" style="width:100%; height:500px;" class="issuuembed"></div>
-<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 Contraception Quiz
 ===================
